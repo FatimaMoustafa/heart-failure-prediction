@@ -20,13 +20,13 @@ The original dataset file containing medical information for patients, including
 #### Model and helper files
 These files are created automatically when running app.py and include:
 
-rf_model.pkl: the trained Random Forest model
+random_forest_model.pkl: the trained Random Forest model
 
 mlp_model.pkl: the trained MLP model
 
 scaler.pkl: the StandardScaler used for feature scaling
 
-X_test_scaled.pkl: scaled test data
+features_test_scaled.pkl: scaled test data
 
-y_test.pkl: actual test labels for model evaluation
+target_test.pkl: actual test labels for model evaluation
 
