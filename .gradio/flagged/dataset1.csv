@@ -1,0 +1,2 @@
+Age,"Anaemia(0 -> No, 1 -> Yes)",Creatinine Phosphokinase,"Diabetes(0 -> No, 1 -> Yes)",Ejection Fraction,"High Blood Pressure(0 -> No, 1 -> Yes)",Platelets,Serum Creatinine,Serum Sodium,"Sex(0 -> Female, 1 -> Male)","Smoking(0 -> No, 1 -> Yes)",Follow-up Time (days),output,timestamp
+50,1,111,0,20,0,210000,1.9,137,1,0,7,Heart Failure,2025-08-06 22:38:33.609201
