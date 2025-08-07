@@ -26,6 +26,10 @@ mlp_model.pkl: the trained MLP model
 
 scaler.pkl: the StandardScaler used for feature scaling
 
+features_test_scaled.pkl: scaled test data
+
+target_test.pkl: actual test labels for model evaluation
+
 ## 🔗 Related Links
 
 You can view the presentation and try the application using the following links:
@@ -34,7 +38,4 @@ You can view the presentation and try the application using the following links:
 - 🤗 **Try the project on Hugging Face**: [Click here to try the app](https://huggingface.co/spaces/fatma-23/Heart-Failure-Prediction)
 
 
-features_test_scaled.pkl: scaled test data
-
-target_test.pkl: actual test labels for model evaluation
 
