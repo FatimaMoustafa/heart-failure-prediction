@@ -36,6 +36,6 @@ You can view the presentation and try the application using the following links:
 
 - 📽️ **Presentation**: [Click here to view the presentation on Canva](https://www.canva.com/design/DAGvakCIf-g/ZIYzEx5t_FtFMhsZjBxFPg/view?utm_content=DAGvakCIf-g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ffa74ac3e)
 - 🤗 **Try the project on Hugging Face**: [Click here to try the app](https://huggingface.co/spaces/fatma-23/Heart-Failure-Prediction)
-
+- 👉 **dataset used to train the predictive model**: [Download Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download)
 
 
